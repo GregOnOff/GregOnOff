@@ -1,7 +1,8 @@
-# - 👋 Hi, I’m @GregOnOff :.:
+# 👋 Hi, I’m @GregOnOff 
+
+Hey, I am Greg and a Hobby _Web-Developer_ :gear:
+I am 28 y/o and former Economics & Chinese :china: Student
+Based in Hamburg/Germany :anchor: 
 
 
-<!---
-GregOnOff/GregOnOff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
