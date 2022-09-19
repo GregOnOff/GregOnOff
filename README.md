@@ -8,6 +8,26 @@
 
 ![panda](https://media.giphy.com/media/EatwJZRUIv41G/giphy-downsized.gif)
 
+Things I like 
+1. Food 
+   * cheese 🧀
+   * spaghetti 🥣
+   * choclate 🍫
+
+2. Sports
+   * weightlifting 🏋️‍♂️
+   * E-Sports 🖱️
+
+3. Coding
+   * HTML 5
+   * CSS 3
+   * JS
+   * Python
+
+I wrote program that represents my complete brain-activities : 
+[bigbrainactions.com](https://www.google.de/?hl=de)
+
+
 
 
 
