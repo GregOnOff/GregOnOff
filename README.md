@@ -24,8 +24,15 @@ Things I like
    * JS
    * Python
 
-I wrote program that represents my complete brain-activities : 
-[bigbrainactions.com](https://www.google.de/?hl=de)
+### I wrote programm that represents my complete brain-activities : 
+🧠 [bigbrainactions.com](https://www.google.de/?hl=de) 🧠
+
+```python
+print('Hello World!')
+```
+
+
+ 
 
 
 
