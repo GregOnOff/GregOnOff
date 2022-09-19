@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @GregOnOff 
-
-Hey, I am Greg and a Hobby _Web-Developer_ :gear:
-I am 28 y/o and former Economics & Chinese :china: Student
-Based in Hamburg/Germany :anchor: 
+## 👋 Hey, I’m Greg
+ 
+- A Hobby _Web-Developer_ :gear:
+- I am 28 y/o and former economics & chinese :rice_ball: Student
+- Based in Hamburg/Germany :anchor: 
 
 
 
