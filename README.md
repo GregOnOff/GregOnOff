@@ -32,6 +32,6 @@ Software Developer & IT Consultant passionate about creating modern web applicat
 
 Feel free to reach out for collaborations or just a chat about tech!
 
-<a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/greg-gerberding-979671157/)">
+<a href="https://www.linkedin.com/in/greg-gerberding-979671157/">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
