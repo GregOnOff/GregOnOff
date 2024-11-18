@@ -12,7 +12,6 @@ Software Developer & IT Consultant passionate about creating modern web applicat
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/-Accessibility-4A90E2?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square)
 ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square)
